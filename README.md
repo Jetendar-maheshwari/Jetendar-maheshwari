@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Testing..
-
 # Jetendar Maheshwari
 
 Hi My name is Jetendar Maheshwari
