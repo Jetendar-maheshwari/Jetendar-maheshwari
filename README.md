@@ -1,9 +1,7 @@
-### Hi there 👋
+Hi 👋 My name is Jetendar Maheshwari
 
-# Jetendar Maheshwari
+<h1>Frontend Developer | Software Developer</h1>
 
-Hi My name is Jetendar Maheshwari
-Frontend Developer | Software Developer
 ✬ IT professional with 5 years of experience in the development and implementation of Web-based, Client/Server applications
 
 ✬ Expertise in Javascript, Svelte, React, Angular and Node.js to build a responsive web application by client preferences <br/>
