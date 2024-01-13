@@ -1,4 +1,4 @@
-Hi 👋 My name is Jetendar Maheshwari
+<h> Hi 👋 My name is Jetendar Maheshwari </h1>
 
 <h1>Frontend Developer | Software Developer</h1>
 
