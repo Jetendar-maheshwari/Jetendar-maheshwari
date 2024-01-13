@@ -10,7 +10,7 @@
 
 ✬ With a Master's degree in Web Engineering and extensive expertise in agile development methodology and continuous delivery, I bring confidence and passion to achieve desired outcomes. <br/>
 
-During my leisure time, I actively pursue learning web development and eCommerce-related topics, sharing my knowledge with individuals eager to acquire these skills. <br/>
+Apart from my work, I love travelling, especially with friends. I am a foodie as well, but I always try to cook new dishes which is healthy and tasty at the same time. <br/>
 
 My track record includes the successful design and implementation of responsive web applications, as well as proficient project management with a dedicated commitment to documentation and coding standards.<br/>
 
