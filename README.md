@@ -33,7 +33,5 @@ My track record includes the successful design and implementation of responsive 
 <a href="https://getbootstrap.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" style="max-width: 100%;"></a>
 <a href="https://redux.js.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" style="max-width: 100%;"></a>
 </p>
-JavaScript TypeScript Svelte React Angular HTML5 CSS3 TailwindCSS NextJs Bootstrap Redux
-# Jetendar-Maheshwari
 
 
