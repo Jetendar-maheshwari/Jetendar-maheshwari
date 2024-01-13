@@ -1,6 +1,6 @@
 <h1> Hi 👋 My name is Jetendar Maheshwari </h1>
 
-<h1> Web Developer | Software Developer</h1>
+<h2> Web Developer | Software Developer</h2>
 
 ✬ Experienced web developer with over 3 years of hands-on knowledge in building and deploying web-based applications. <br/>
 
